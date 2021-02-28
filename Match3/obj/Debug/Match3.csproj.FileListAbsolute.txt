@@ -1,0 +1,7 @@
+C:\Users\Ярик\source\repos\Match3\Match3\bin\Debug\Match3.exe.config
+C:\Users\Ярик\source\repos\Match3\Match3\bin\Debug\Match3.exe
+C:\Users\Ярик\source\repos\Match3\Match3\bin\Debug\Match3.pdb
+C:\Users\Ярик\source\repos\Match3\Match3\obj\Debug\Match3.csprojAssemblyReference.cache
+C:\Users\Ярик\source\repos\Match3\Match3\obj\Debug\Match3.csproj.CoreCompileInputs.cache
+C:\Users\Ярик\source\repos\Match3\Match3\obj\Debug\Match3.exe
+C:\Users\Ярик\source\repos\Match3\Match3\obj\Debug\Match3.pdb
